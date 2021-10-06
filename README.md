@@ -4,9 +4,3 @@
 
 - Dev portfolio
 
-*Devportfolio
--Devportfolio
-
-
--Devportfolio
-*Devportfolio
